@@ -1,0 +1,1 @@
+export const API = `https://eshop7.pythonanywhere.com/`
